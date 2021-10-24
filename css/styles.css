@@ -48,6 +48,10 @@ html {
 	font-family: 'Open Sans', sans-serif;
 }
 
+body {
+	min-width: 1200px;
+}
+
 .btn {
 	display: inline-block;
 	padding: 15px 30px;
